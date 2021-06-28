@@ -9,7 +9,7 @@ function sumTest() {
 }
 
 function sumTest() {
-  expect(sum(1, 3)).toBe(4);
+  expect(sum(1, 3)).toBe(5);
 }
 
 
